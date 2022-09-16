@@ -1,0 +1,14 @@
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\bin\Debug\netcoreapp3.1\AmyntaGroup.deps.json
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\bin\Debug\netcoreapp3.1\AmyntaGroup.dll
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\bin\Debug\netcoreapp3.1\AmyntaGroup.pdb
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.csproj.AssemblyReference.cache
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.AssemblyInfoInputs.cache
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.AssemblyInfo.cs
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.csproj.CoreCompileInputs.cache
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.dll
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.pdb
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\bin\Debug\netcoreapp3.1\AmyntaGroup.exe
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\bin\Debug\netcoreapp3.1\AmyntaGroup.runtimeconfig.json
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\bin\Debug\netcoreapp3.1\AmyntaGroup.runtimeconfig.dev.json
+C:\Users\Rober\source\repos\AmyntaGroup\AmyntaGroup\obj\Debug\netcoreapp3.1\AmyntaGroup.genruntimeconfig.cache
